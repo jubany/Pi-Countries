@@ -1,0 +1,21 @@
+.container{
+    min-height: 200px;
+    width: 400px;
+    padding: 30px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #97DECE;
+    gap: 1rem;
+    text-align: center;
+    margin: 20px;
+    box-shadow: 10px 10px 50px 0px rgba(35,41,27,0.75);
+    -webkit-box-shadow: 10px 10px 50px 0px rgba(35,41,27,0.75);
+    -moz-box-shadow: 10px 10px 50px 0px rgba(35,41,27,0.75);
+}
+.container img{
+    max-width: 250px;
+    height: auto;
+}
+.tamaño{
+    font-size: 20px;
+}

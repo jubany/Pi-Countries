@@ -1,0 +1,37 @@
+
+.landing{
+        width: 100%;
+        min-height: 760px;
+        background-image: url(https://images.pexels.com/photos/335393/pexels-photo-335393.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+        text-align: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+}
+.h1{
+        margin-top: 0;
+}
+.button{
+        margin-left: auto;
+        margin-right: auto;
+        font-family: Roboto, sans-serif;
+        font-weight: 0;
+        font-size: 14px;
+        color: #fff;
+        background-color: #ff8000;
+        padding: 10px 30px;
+        border: none;
+        box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px;
+        border-radius: 50px;
+        transition : 1000ms;
+        transform: translateY(0);
+        }
+        
+        .button:hover{
+        transition : 1000ms;
+        padding: 10px 50px;
+        transform : translateY(-0px);
+        background-color: #ff8000e2;
+        color: #000000;
+        border: none;
+        }
+       
